@@ -59,14 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=architkumar021&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=architkumar021&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 Currently Exploring
 ✨ Distributed Systems Patterns  
 📈 System Reliability & Observability  
@@ -86,6 +78,3 @@
 <b>Building reliable systems that scale 🚀</b>
 </p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=architkumar021&icon=0&color=0)](https://visitcount.itsvg.in)
